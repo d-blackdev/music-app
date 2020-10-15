@@ -12,14 +12,14 @@ import Home from "./Component/Home/Home";
 import Playlist from "./Pages/Settings/Playlist/Playlist";
 import Chat from "./Pages/Settings/Chat/Chat";
 import Profile from "./Pages/Settings/Profile/Profile";
-const Login = React.lazy(() => import('./Containers/Login/Login'))
-// import Login from "./Containers/Login/Login";
+// const Login = React.lazy(() => import('./Containers/Login/Login'))
+import Login from "./Containers/Login/Login";
 
 function App() {
   
   return (
     <div className="App">
-      <Suspense fallback={SplashScreen}>
+      {/* <Suspense fallback={SplashScreen}> */}
       <TopNav />
       <Switch>
           <Route exact path="/" component={Login} />
@@ -32,7 +32,7 @@ function App() {
           <Route path="/profile" component={Profile}/>
       </Switch>
       <BottomNav />
-      </Suspense>
+      {/* </Suspense> */}
     </div>
   );
 }
