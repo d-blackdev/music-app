@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/music-app/static/css/main.6aaaa76c.chunk.css",
+    "main.js": "/music-app/static/js/main.9a6225f3.chunk.js",
+    "main.js.map": "/music-app/static/js/main.9a6225f3.chunk.js.map",
+    "runtime-main.js": "/music-app/static/js/runtime-main.10352ce2.js",
+    "runtime-main.js.map": "/music-app/static/js/runtime-main.10352ce2.js.map",
+    "static/css/2.2a86faee.chunk.css": "/music-app/static/css/2.2a86faee.chunk.css",
+    "static/js/2.09ccf250.chunk.js": "/music-app/static/js/2.09ccf250.chunk.js",
+    "static/js/2.09ccf250.chunk.js.map": "/music-app/static/js/2.09ccf250.chunk.js.map",
+    "static/css/3.5abcf3fa.chunk.css": "/music-app/static/css/3.5abcf3fa.chunk.css",
+    "static/js/3.16bc0809.chunk.js": "/music-app/static/js/3.16bc0809.chunk.js",
+    "static/js/3.16bc0809.chunk.js.map": "/music-app/static/js/3.16bc0809.chunk.js.map",
+    "index.html": "/music-app/index.html",
+    "precache-manifest.7571acc93a8f9f72a55b304d7e57312e.js": "/music-app/precache-manifest.7571acc93a8f9f72a55b304d7e57312e.js",
+    "service-worker.js": "/music-app/service-worker.js",
+    "static/css/2.2a86faee.chunk.css.map": "/music-app/static/css/2.2a86faee.chunk.css.map",
+    "static/css/3.5abcf3fa.chunk.css.map": "/music-app/static/css/3.5abcf3fa.chunk.css.map",
+    "static/css/main.6aaaa76c.chunk.css.map": "/music-app/static/css/main.6aaaa76c.chunk.css.map",
+    "static/js/2.09ccf250.chunk.js.LICENSE.txt": "/music-app/static/js/2.09ccf250.chunk.js.LICENSE.txt",
+    "static/media/Logo.png": "/music-app/static/media/Logo.d2dc3b61.png",
+    "static/media/img.jpg": "/music-app/static/media/img.938bd7ae.jpg",
+    "static/media/img1.jpg": "/music-app/static/media/img1.dff61c43.jpg",
+    "static/media/img2.jpg": "/music-app/static/media/img2.be180580.jpg",
+    "static/media/img3.jpg": "/music-app/static/media/img3.c7c9a38d.jpg",
+    "static/media/img4.jpg": "/music-app/static/media/img4.bf9b7a76.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.10352ce2.js",
+    "static/css/2.2a86faee.chunk.css",
+    "static/js/2.09ccf250.chunk.js",
+    "static/css/main.6aaaa76c.chunk.css",
+    "static/js/main.9a6225f3.chunk.js"
+  ]
+}
