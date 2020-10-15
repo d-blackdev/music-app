@@ -1,0 +1,30 @@
+.splash{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 50%;
+}
+.splash-img-cont{
+    width: 300px;
+    height: 300px;
+}
+.splash-img{
+    width: 300px;
+    height: 300px;
+}
+.splash-text{
+    margin-top: 13rem;
+    font-size: 3.5rem;
+    color: #f68426;
+}
+
+@media (min-width:968px){
+   .splash{
+    margin-top: 5%;
+   }
+   .splash-text{
+       margin-top:8rem;
+   }
+}

@@ -1,0 +1,38 @@
+.singlemusiclibrary{
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+.single-content{
+    display: flex;
+    /* justify-content: space-between; */
+}
+.single-img-cont{
+    width:40px;
+    height: 40px;
+    border-radius: 3px;
+}
+.single-img{
+    width:40px;
+    height: 40px; 
+    border-radius: 3px;
+
+}
+.single-body{
+    margin-left: 10px;
+}
+
+.single-body-title{
+    font-size: 13px;
+    color: rgb(168, 168, 168);
+}
+.single-body-text{
+    font-size: 10px;
+    color: rgb(121, 121, 121);
+}
+.single-right{
+    margin-right: 5px;
+}
+.coloured{
+    color: #f68426;
+}

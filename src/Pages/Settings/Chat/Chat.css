@@ -1,0 +1,29 @@
+.chat{
+    width: 100%;
+    margin-top: 55px;
+    margin-bottom: 110px;
+    padding-left: 25px !important;
+    padding-right: 25px !important;
+    position: relative;
+}
+.chat-content{
+    margin-top: 20px;
+}
+.addchat{
+    background: linear-gradient(to right, #feee3e,#f68426,#f68426,#f68426) !important;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    position: fixed;
+    bottom: 75px;
+    right: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+.add-icon{
+    color: white;
+    background: #f68426 !important;
+    font-size: 15px;
+}

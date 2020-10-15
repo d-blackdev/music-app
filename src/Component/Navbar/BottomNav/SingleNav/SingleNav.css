@@ -1,0 +1,29 @@
+.nav{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    color: rgb(133, 131, 131) !important;
+
+}
+.nav .single-nav-icon{
+    font-size: 1.7rem !important;
+    color: rgb(173, 173, 173) !important;
+
+}
+.nav-text{
+    font-size: 13px !important;
+    color: rgb(133, 131, 131) ;
+    text-align: center;
+   
+}
+.active .single-nav-icon{
+    color: #f68426 !important;
+}
+.active .nav-text{
+    color: #f68426 !important;
+}
+.link{
+    text-decoration: none !important;
+    color: rgb(173, 173, 173) !important;
+}

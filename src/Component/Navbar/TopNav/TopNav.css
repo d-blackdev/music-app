@@ -1,0 +1,28 @@
+.navbar {
+  padding: 20px 10px 20px 40px;
+  width: 100%;
+  position: fixed !important;
+  top: 0 !important;
+  left: 0;
+}
+.nav-cont {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #eee;
+}
+.nav-cont h6{
+    font-size: 11px;
+    font-weight: 600;
+    margin-top: 10px;
+    letter-spacing: .08rem;
+    padding-left: 20px !important;
+}
+.nav-icon{
+    margin-right: 10px;
+    font-size: 15px;
+}
+.icon-3{
+font-size: 20px;
+}

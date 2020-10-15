@@ -1,0 +1,33 @@
+.library-nav{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+  
+  color: rgb(155, 155, 155);
+}
+.library-nav-text{
+    font-weight: 600;
+    letter-spacing: .05rem;
+    color: rgb(255, 255, 255);
+    font-size: 12px;
+    /* margin-top: 3px; */
+}
+.icon-2{
+  margin-right: 15px;
+}
+.icon2-cont{
+  margin-top: -8px;
+}
+.icon1{
+  margin-top: -12px;
+}
+.icon-size{
+  font-size: 15px;
+}
+.library-nav-link{
+  text-decoration: none !important;
+  color: rgb(155, 155, 155) !important;
+}
+.library-nav-icon{
+  font-size: 18px !important;
+}

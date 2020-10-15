@@ -1,0 +1,40 @@
+.homeplay {
+  position: fixed;
+  bottom: 70px;
+  padding: 10px;
+  border-top: 1px solid rgb(49, 49, 49);
+  border-radius: 5px 5px 0px 0px;
+  width: 100%;
+}
+.homeplay-text {
+  margin-left: 20px;
+  margin-top: 10px;
+  color: rgb(202, 202, 202);
+  font-size: 13px;
+}
+.homeplay-img-cont {
+  width: 40px;
+  height: 40px;
+  border-radius: 5px;
+}
+.homeplay-img {
+  width: 40px;
+  height: 40px;
+  border-radius: 5px;
+}
+.homeplay-content {
+  display: flex;
+  justify-content: space-between;
+}
+.first-icon {
+  margin-right: 15px;
+}
+.homeplay-icons {
+  color: #f68426;
+}
+.homeplay-body {
+  display: flex;
+}
+.homeplay-icon {
+  margin-top: 8px;
+}

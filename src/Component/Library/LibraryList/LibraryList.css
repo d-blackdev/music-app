@@ -1,0 +1,21 @@
+.library-list{
+    width: 100%;
+    display: flex;
+ 
+    
+}
+.librarylist-icon{
+    color: #f68426;
+    font-size: 1.6rem;
+    margin-right: 15px;
+}
+.librarytext{
+    margin-top: 11px;
+    font-size: 1rem;
+    color: rgb(207, 207, 207);
+}
+.num{
+    margin-left: 10px;
+    font-size: 1rem;
+    color: #f68426;
+}

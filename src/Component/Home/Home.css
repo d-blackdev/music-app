@@ -1,0 +1,14 @@
+.album{
+    width: 100%;
+    margin-top: 55px;
+    margin-bottom: 140px;
+   
+}
+.album-content{
+    margin-top: 30px;
+    padding-left: 25px !important;
+    padding-right: 25px !important;
+}
+.album-body{
+    padding-top: 20px;
+}

@@ -1,0 +1,12 @@
+.bottom-nav{
+    position: fixed;
+    bottom: 0;
+    padding: 10px;
+    border-top: 1px solid rgb(49, 49, 49);
+    border-radius: 10px 10px 0px 0px;
+    width: 100%;
+}
+.bottom-nav-content{
+    display: flex;
+    justify-content: space-evenly;
+}

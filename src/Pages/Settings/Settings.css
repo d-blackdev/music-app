@@ -1,0 +1,44 @@
+.settings{
+    margin-top: 55px;
+    margin-bottom: 80px;
+    padding-left: 25px !important;
+    padding-right: 25px !important;
+}
+.settings-title-cont{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 25px auto;
+}
+.setting-title{
+    font-size: 20px;
+    text-transform: capitalize;
+    color: #eee;
+    margin-bottom: 20px;
+
+}
+.settings-btn{
+    background: linear-gradient(to right, #feee3e,#f68426,#f68426,#f68426,#f68426) !important;
+    width: 250px;
+    outline: none;
+    text-transform: uppercase;
+    font-weight: 600 !important;
+    border-radius: 20px !important;
+    height: 45px !important;
+    border:  none !important;
+}
+.settings-section-title{
+    color: #f68426;
+    font-size: 14px;
+    font-weight: 600;
+    margin-bottom: 25px;
+    margin-top: 20px;
+}
+.setting-section{
+    margin-top: 40px;
+}
+.section-subtitle{
+    color: rgb(136, 136, 136);
+    font-size: 13px;
+    font-weight: 500;
+}

@@ -1,0 +1,14 @@
+.library{
+    width: 100%;
+    margin-top: 55px;
+    margin-bottom: 80px;
+    padding-left: 25px !important;
+    padding-right: 25px !important;
+  
+}
+.library-recent-title{
+    padding: 10px 0px;
+    color: #f68426;
+    font-size: 12px;
+    font-weight: 600;
+}
