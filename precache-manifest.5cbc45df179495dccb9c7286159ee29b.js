@@ -1,39 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1879e916144bdd535fd28c486fbaef45",
+    "revision": "ed47f396bf5e3f827647ccdcec02b870",
     "url": "/music-app/index.html"
   },
   {
-    "revision": "653dc3f81589b2d0949b",
+    "revision": "75c50f67e45f2a59d2d0",
     "url": "/music-app/static/css/2.2a86faee.chunk.css"
   },
   {
-    "revision": "9cb4862d99ed0ff85f96",
-    "url": "/music-app/static/css/3.5abcf3fa.chunk.css"
+    "revision": "16b287b23bdd4f85a888",
+    "url": "/music-app/static/css/main.5ef3940d.chunk.css"
   },
   {
-    "revision": "badf44500a3fc77d8e17",
-    "url": "/music-app/static/css/main.6aaaa76c.chunk.css"
-  },
-  {
-    "revision": "653dc3f81589b2d0949b",
-    "url": "/music-app/static/js/2.09ccf250.chunk.js"
+    "revision": "75c50f67e45f2a59d2d0",
+    "url": "/music-app/static/js/2.206772b6.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/music-app/static/js/2.09ccf250.chunk.js.LICENSE.txt"
+    "url": "/music-app/static/js/2.206772b6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9cb4862d99ed0ff85f96",
-    "url": "/music-app/static/js/3.16bc0809.chunk.js"
+    "revision": "16b287b23bdd4f85a888",
+    "url": "/music-app/static/js/main.4aa670d4.chunk.js"
   },
   {
-    "revision": "badf44500a3fc77d8e17",
-    "url": "/music-app/static/js/main.9a6225f3.chunk.js"
-  },
-  {
-    "revision": "7a5ab3e02625f2be2f10",
-    "url": "/music-app/static/js/runtime-main.10352ce2.js"
+    "revision": "4f04cc2715f387e37000",
+    "url": "/music-app/static/js/runtime-main.726d910a.js"
   },
   {
     "revision": "d2dc3b618fde029ec76fc08bea28a04f",
