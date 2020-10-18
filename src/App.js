@@ -22,14 +22,14 @@ function App() {
       {/* <Suspense fallback={SplashScreen}> */}
       <TopNav />
       <Switch>
-          <Route exact path="/" component={Login} />
-          <Route path="/signup" component={SignUp} />
-          <Route path="/library" component={Library} />
-          <Route path="/settings" component={Settings}/>
-          <Route path='/albums' component={Home} />
-          <Route path="/playlists" component={Playlist} />
-          <Route path="/chat" component={Chat} />
-          <Route path="/profile" component={Profile}/>
+        <Route exact path="/" component={Login} />
+        <Route exact path="/signup" component={SignUp} />
+        <Route exact path="/library" component={Library} />
+        <Route exact path="/settings" component={Settings} />
+        <Route exact path="/albums" component={Home} />
+        <Route exact path="/playlists" component={Playlist} />
+        <Route exact path="/chat" component={Chat} />
+        <Route exact path="/profile" component={Profile} />
       </Switch>
       <BottomNav />
       {/* </Suspense> */}

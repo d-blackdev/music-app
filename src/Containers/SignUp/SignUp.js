@@ -11,6 +11,7 @@ export default class SignUp extends Component {
     name: "",
     password: "",
       showIcon: false,
+      showIcon2: false,
     confirmPassword:''
   };
 
@@ -22,6 +23,11 @@ export default class SignUp extends Component {
   showIcons = () => {
     this.setState((prevState) => ({
       showIcon: !prevState.showIcon,
+    }));
+  };
+  showIcons2 = () => {
+    this.setState((prevState) => ({
+      showIcon2: !prevState.showIcon2,
     }));
   };
 
@@ -88,8 +94,8 @@ export default class SignUp extends Component {
                   <Label htmlFor="confirmPassword" className="label">
                     Confirm Password
                   </Label>
-                  <span onClick={this.showIcons} className="show-icon-cont">
-                    {!this.state.showIcon ? (
+                  <span onClick={this.showIcons2} className="show-icon-cont">
+                    {!this.state.showIcon2 ? (
                       <MdVisibility className="show-icon" />
                     ) : (
                       <MdVisibilityOff className="show-icon" />
