@@ -1,0 +1,6 @@
+.single-carousel{
+    color: red !important;
+}
+.single-carousel-content, .genre, .name{
+    background: transparent !important;
+}

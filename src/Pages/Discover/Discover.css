@@ -1,0 +1,26 @@
+.discover {
+  width: 100%;
+  margin-top: 70px;
+  margin-bottom: 80px;
+  /* background-color: rgb(10, 10, 10); */
+}
+.discovery-nav {
+  padding-left: 25px;
+  padding-right: 25px;
+}
+.discover-content {
+  margin-top: 20px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+.albums-views{
+    margin-top: 20px !important;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.album-title{
+    font-size: 15px;
+    font-weight: 600;
+    color: #f68426;
+    margin-bottom: 15px;
+}

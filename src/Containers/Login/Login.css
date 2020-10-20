@@ -8,9 +8,9 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  /* width: 90% !important; */
-  padding-left: 25px;
-  padding-right: 25px;
+  width: 90% !important;
+  /* padding-left: 25px;
+  padding-right: 25px; */
 }
 .login-img-cont {
   width: 100px;
